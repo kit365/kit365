@@ -2,7 +2,6 @@
 
 ## ABOUT ME
 - Name: Kit
-- My blog: dev.to/jacktt
 - Email: kietops365@gmail.com
 - Software engineer 
 
